@@ -20,20 +20,20 @@ This project is a reward system for a coffee shop named "Central Perk" to enhanc
 ## Diagrams
 
 ### Data Model Diagram
-![Data Model Diagram](./Diagrams/Data Model.png)
+![Data Model Diagram](Diagrams/Data Model.png)
 
 ### Use Case Diagram
-![Use Case Diagram](./Diagrams/Use Case.png)
+![Use Case Diagram](Diagrams/Use Case.png)
 
 ### Class Diagram
-![Class Diagram](./Diagrams/Class Diagram.png)
+![Class Diagram](Diagrams/Class Diagram.png)
 
 ### Sequence Diagrams
 #### Sequence Diagram 1
-![Sequence Diagram 1](./Diagrams/Sequence Diagram 1.png)
+![Sequence Diagram 1](Diagrams/Sequence Diagram 1.png)
 
 #### Sequence Diagram 2
-![Sequence Diagram 2](./Diagrams/Sequence Diagram 2.png)
+![Sequence Diagram 2](Diagrams/Sequence Diagram 2.png)
 
 ## Running the Application
 
