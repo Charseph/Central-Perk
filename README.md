@@ -20,7 +20,7 @@ This project is a reward system for a coffee shop named "Central Perk" to enhanc
 ## Diagrams
 
 ### Data Model Diagram
-![Data Model Diagram](Diagrams/Data Model.png)
+![Data Model Diagram]([Diagrams/Data Model.png](https://github.com/Charseph/Central-Perk/blob/main/Diagrams/Data%20Model.png))
 
 ### Use Case Diagram
 ![Use Case Diagram](Diagrams/Use Case.png)
