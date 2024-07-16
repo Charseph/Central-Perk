@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: 'Nunito', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@media (max-width: 600px) {
+  .MuiContainer-root {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+
+  .MuiTypography-h4 {
+    font-size: 1.5rem;
+  }
+
+  .MuiTypography-h6 {
+    font-size: 1rem;
+  }
+
+  .MuiTextField-root {
+    margin-bottom: 16px;
+  }
+}
